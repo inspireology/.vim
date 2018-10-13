@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Applications/XAMPP/xamppfiles/htdocs/superkotoba'
+let g:netrw_dirhist_2='/Applications/XAMPP/xamppfiles/htdocs/superkotoba/app'
+let g:netrw_dirhist_3='/Applications/XAMPP/xamppfiles/htdocs/superkotoba/app/controllers'
